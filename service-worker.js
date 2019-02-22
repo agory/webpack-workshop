@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b65e9566488157fe265ea228072cc09a"
+    "revision": "831c357e3c63517769424cac3791e471"
   },
   {
     "url": "assets/css/0.styles.446b2bb4.css",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "revision": "ceec9c60f99a88aa2d381b5c34977eac"
   },
   {
-    "url": "assets/js/app.d0410459.js",
-    "revision": "e0f3983cfc426cba232ef6da15730949"
+    "url": "assets/js/app.a6d1c468.js",
+    "revision": "1f773707421a22cea2699f8d2cd42f9f"
   },
   {
     "url": "assets/js/vendors~docsearch.d932dc62.js",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "1c4bc5414ba2397ad06173314799a813"
+    "revision": "8a379c377d378e72988c563a6bac3cab"
   },
   {
     "url": "webpack.png",
@@ -117,55 +117,55 @@ self.__precacheManifest = [
   },
   {
     "url": "workshops/index.html",
-    "revision": "bddba735394504a2cfafe74396dceeec"
+    "revision": "f27125a9a09722d836631e91454fa1d6"
   },
   {
     "url": "workshops/intermediate/babel.html",
-    "revision": "2031053a558c8ee70f26a84df6366b95"
+    "revision": "35091894a02362622d313f9a2336ac87"
   },
   {
     "url": "workshops/intermediate/dev.html",
-    "revision": "f2553af76b97c164af9a52c0054284a9"
+    "revision": "239343f64245d3377e00ae4289b13271"
   },
   {
     "url": "workshops/intermediate/index.html",
-    "revision": "f69c251a4c9de8bb22870f08b4e19623"
+    "revision": "fcce5bef40a67e86fc5bd12a33e06175"
   },
   {
     "url": "workshops/intermediate/intermediate-koans.html",
-    "revision": "588b078f2c8f527255b1e7b040c5f00b"
+    "revision": "a08bfc8eccb5a927e99583f0579ca282"
   },
   {
     "url": "workshops/intermediate/reduce-bundle-size.html",
-    "revision": "85ce82a6e1f14b7af2c839f8131f9585"
+    "revision": "d5c1e7c54d02246729a2eef6b338bfad"
   },
   {
     "url": "workshops/intermediate/style.html",
-    "revision": "98b1e6c05dda7a7fc9b22fdbd32c27bb"
+    "revision": "a71176662342ee97b5d05369f1c3977c"
   },
   {
     "url": "workshops/novice/basics.html",
-    "revision": "652c0870df4d64c674f8cb6fb83d67f9"
+    "revision": "40d1da00d81451de1e20fbfa4d52cc21"
   },
   {
     "url": "workshops/novice/code-assets.html",
-    "revision": "3f39e5ee4732a7adde5949dc42cf4bc1"
+    "revision": "68674e42402d810adde9ba790a2f11e7"
   },
   {
     "url": "workshops/novice/index.html",
-    "revision": "24dc4ebc5d8e5e5ef7171f81fd8c5c35"
+    "revision": "faf012f49200e3a3e9fb9883a88a5c67"
   },
   {
     "url": "workshops/novice/novice-koans.html",
-    "revision": "97cdbe164f32258813009d524bec63b4"
+    "revision": "8a32daa98e0e405f8850df16190f0541"
   },
   {
     "url": "workshops/novice/outputs.html",
-    "revision": "5e90356fe3bd98ae65513898842e58ad"
+    "revision": "1d7c7cdf24d80eb74b9e12ac1f867c79"
   },
   {
     "url": "workshops/novice/static-assets.html",
-    "revision": "aafca60b24c1e602d0f3526e4ed66581"
+    "revision": "20a187291dd501e048943c5ee97a8555"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
