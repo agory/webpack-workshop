@@ -143,7 +143,17 @@ A popular plugin to manage this is the clean-webpack-plugin so let's install and
 Import your plugin and add this plugin configuration as first plugin.
 
 ```js
-new CleanWebpackPlugin(['dist']),
+// ...
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+
+
+module.exports = {
+  // ...,
+  plugins: [
+    new CleanWebpackPlugin(),
+    // ...
+  ]
+};
 ```
 
 </details>
